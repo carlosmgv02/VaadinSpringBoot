@@ -1,16 +1,6 @@
 package com.example.application.views.list;
 
-import com.example.application.data.entity.Company;
-import com.example.application.data.entity.Contact;
-import com.example.application.data.entity.Status;
-import org.junit.Assert;
-import org.junit.Test;
-import org.junit.jupiter.api.BeforeEach;
-
-import java.util.ArrayList;
-import java.util.List;
-
-public class ContactFormTest {
+public class ContactFormTest {/*
     private List<Company> companies;
     private List<Status> statuses;
     private Contact marcUsher;
@@ -54,5 +44,5 @@ public class ContactFormTest {
         Assert.assertEquals("marc@usher.com",form.email.getValue());
         Assert.assertEquals(company2,form.company.getValue());
         Assert.assertEquals(status1,form.status.getValue());
-    }
+    }*/
 }
