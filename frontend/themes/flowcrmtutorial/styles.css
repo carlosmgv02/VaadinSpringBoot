@@ -11,3 +11,9 @@ a[highlight] {
     font-weight: bold;
     text-decoration: underline;
 }
+.v-image{
+    cursor: pointer;
+}
+.gitHubImage:hover {
+    cursor: pointer;
+}
