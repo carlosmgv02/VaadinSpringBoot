@@ -20,7 +20,7 @@ public class LoginView extends VerticalLayout implements BeforeEnterListener {
 
         login.setAction("login");
         add(
-                new H1("LOGIN PAGE"),
+                new H1("LOGIN PAGE trial"),
                 login
         );
     }
